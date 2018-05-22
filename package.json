@@ -1,5 +1,5 @@
 {
-  "name": "generator-cjh-oss",
+  "name": "generator-oss-cjh",
   "version": "0.0.0-semantically-released",
   "description":
     "A generator for my projects. Feel free to contribute if you want to adapt it for more use cases",
@@ -28,10 +28,10 @@
   "preferGlobal": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/chengjianhua/generator-cjh-oss.git"
+    "url": "https://github.com/chengjianhua/generator-oss-cjh.git"
   },
   "bugs": {
-    "url": "https://github.com/chengjianhua/generator-cjh-oss/issues"
+    "url": "https://github.com/chengjianhua/generator-oss-cjh/issues"
   },
-  "homepage": "https://github.com/chengjianhua/generator-cjh-oss#readme"
+  "homepage": "https://github.com/chengjianhua/generator-oss-cjh#readme"
 }

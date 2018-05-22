@@ -1,5 +1,5 @@
 <div align="center">
-<h1>generator-cjh-oss</h1>
+<h1>generator-oss-cjh</h1>
 
 <p>An open source project generator for my open source projects :)</p>
 </div>
@@ -33,7 +33,7 @@ This module is distributed via [npm][npm] which is bundled with [node][node] and
 be installed globally (with `yo`):
 
 ```
-npm install -g generator-cjh-oss yo
+npm install -g generator-oss-cjh yo
 ```
 
 ## Usage
@@ -53,7 +53,7 @@ This is fork from [Kent C. Dodds](https://github.com/kentcdodds).
 Thanks goes to these people ([emoji key][emojis]):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-| [<img src="https://avatars.githubusercontent.com/u/10795207?v=3" width="100px;"/><br /><sub>Jianhua Cheng</sub>](https://chengjianhua.github.io)<br />[💻](https://github.com/chengjianhua/generator-cjh-oss/commits?author=chengjianhua "Code") [📖](https://github.com/chengjianhua/generator-cjh-oss/commits?author=chengjianhua "Documentation") [🚇](#infra-chengjianhua "Infrastructure (Hosting, Build-Tools, etc)") |
+| [<img src="https://avatars.githubusercontent.com/u/10795207?v=3" width="100px;"/><br /><sub>Jianhua Cheng</sub>](https://chengjianhua.github.io)<br />[💻](https://github.com/chengjianhua/generator-oss-cjh/commits?author=chengjianhua "Code") [📖](https://github.com/chengjianhua/generator-oss-cjh/commits?author=chengjianhua "Documentation") [🚇](#infra-chengjianhua "Infrastructure (Hosting, Build-Tools, etc)") |
 | :---: |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
@@ -67,24 +67,24 @@ MIT
 [node]: https://nodejs.org
 [sindresorhus]: https://github.com/sindresorhus
 [generator-nm]: https://github.com/sindresorhus/generator-nm
-[build-badge]: https://img.shields.io/travis/chengjianhua/generator-cjh-oss.svg?style=flat-square
-[build]: https://travis-ci.org/chengjianhua/generator-cjh-oss
-[version-badge]: https://img.shields.io/npm/v/generator-cjh-oss.svg?style=flat-square
-[package]: https://www.npmjs.com/package/generator-cjh-oss
-[downloads-badge]: https://img.shields.io/npm/dm/generator-cjh-oss.svg?style=flat-square
-[npmtrends]: http://www.npmtrends.com/generator-cjh-oss
-[license-badge]: https://img.shields.io/npm/l/generator-cjh-oss.svg?style=flat-square
-[license]: https://github.com/chengjianhua/generator-cjh-oss/blob/master/LICENSE
+[build-badge]: https://img.shields.io/travis/chengjianhua/generator-oss-cjh.svg?style=flat-square
+[build]: https://travis-ci.org/chengjianhua/generator-oss-cjh
+[version-badge]: https://img.shields.io/npm/v/generator-oss-cjh.svg?style=flat-square
+[package]: https://www.npmjs.com/package/generator-oss-cjh
+[downloads-badge]: https://img.shields.io/npm/dm/generator-oss-cjh.svg?style=flat-square
+[npmtrends]: http://www.npmtrends.com/generator-oss-cjh
+[license-badge]: https://img.shields.io/npm/l/generator-oss-cjh.svg?style=flat-square
+[license]: https://github.com/chengjianhua/generator-oss-cjh/blob/master/LICENSE
 [prs-badge]: https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square
 [prs]: http://makeapullrequest.com
 [donate-badge]: https://img.shields.io/badge/$-support-green.svg?style=flat-square
 [coc-badge]: https://img.shields.io/badge/code%20of-conduct-ff69b4.svg?style=flat-square
-[coc]: https://github.com/chengjianhua/generator-cjh-oss/blob/master/other/CODE_OF_CONDUCT.md
-[github-watch-badge]: https://img.shields.io/github/watchers/chengjianhua/generator-cjh-oss.svg?style=social
-[github-watch]: https://github.com/chengjianhua/generator-cjh-oss/watchers
-[github-star-badge]: https://img.shields.io/github/stars/chengjianhua/generator-cjh-oss.svg?style=social
-[github-star]: https://github.com/chengjianhua/generator-cjh-oss/stargazers
-[twitter]: https://twitter.com/intent/tweet?text=Check%20out%20generator-cjh-oss%20by%20%40chengjianhua%20https%3A%2F%2Fgithub.com%2Fchengjianhua%2Fgenerator-cjh-oss%20%F0%9F%91%8D
-[twitter-badge]: https://img.shields.io/twitter/url/https/github.com/chengjianhua/generator-cjh-oss.svg?style=social
+[coc]: https://github.com/chengjianhua/generator-oss-cjh/blob/master/other/CODE_OF_CONDUCT.md
+[github-watch-badge]: https://img.shields.io/github/watchers/chengjianhua/generator-oss-cjh.svg?style=social
+[github-watch]: https://github.com/chengjianhua/generator-oss-cjh/watchers
+[github-star-badge]: https://img.shields.io/github/stars/chengjianhua/generator-oss-cjh.svg?style=social
+[github-star]: https://github.com/chengjianhua/generator-oss-cjh/stargazers
+[twitter]: https://twitter.com/intent/tweet?text=Check%20out%20generator-oss-cjh%20by%20%40chengjianhua%20https%3A%2F%2Fgithub.com%2Fchengjianhua%2Fgenerator-oss-cjh%20%F0%9F%91%8D
+[twitter-badge]: https://img.shields.io/twitter/url/https/github.com/chengjianhua/generator-oss-cjh.svg?style=social
 [emojis]: https://github.com/chengjianhua/all-contributors#emoji-key
 [all-contributors]: https://github.com/chengjianhua/all-contributors

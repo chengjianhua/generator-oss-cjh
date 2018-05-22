@@ -16,7 +16,7 @@ Thanks for being willing to contribute!
 > pull requests from branches on your fork. To do this, run:
 >
 > ```
-> git remote add upstream https://github.com/chengjianhua/generator-cjh-oss.git
+> git remote add upstream https://github.com/chengjianhua/generator-oss-cjh.git
 > git fetch upstream
 > git branch --set-upstream-to=upstream/master master
 > ```
@@ -70,4 +70,4 @@ requests! Thanks!
 
 [egghead]: https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github
 [all-contributors]: https://github.com/chengjianhua/all-contributors
-[issues]: https://github.com/chengjianhua/generator-cjh-oss/issues
+[issues]: https://github.com/chengjianhua/generator-oss-cjh/issues
