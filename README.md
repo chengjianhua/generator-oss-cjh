@@ -1,3 +1,18 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+- [generator-oss-cjh](#generator-oss-cjh)
+  - [The problem](#the-problem)
+  - [This solution](#this-solution)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Inspiration](#inspiration)
+  - [Contributors](#contributors)
+  - [LICENSE](#license)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 <div align="center">
 <h1>generator-oss-cjh</h1>
 
@@ -9,7 +24,7 @@
 [![Build Status][build-badge]][build]
 [![version][version-badge]][package]
 [![downloads][downloads-badge]][npmtrends]
-[![MIT License][license-badge]][LICENSE]
+[![MIT License][license-badge]][license]
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
 [![PRs Welcome][prs-badge]][prs]
@@ -53,8 +68,11 @@ This is fork from [Kent C. Dodds](https://github.com/kentcdodds).
 Thanks goes to these people ([emoji key][emojis]):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-| [<img src="https://avatars.githubusercontent.com/u/10795207?v=3" width="100px;"/><br /><sub>Jianhua Cheng</sub>](https://chengjianhua.github.io)<br />[💻](https://github.com/chengjianhua/generator-oss-cjh/commits?author=chengjianhua "Code") [📖](https://github.com/chengjianhua/generator-oss-cjh/commits?author=chengjianhua "Documentation") [🚇](#infra-chengjianhua "Infrastructure (Hosting, Build-Tools, etc)") |
-| :---: |
+
+| [<img src="https://avatars.githubusercontent.com/u/10795207?v=3" width="100px;"/><br /><sub>Jianhua Cheng</sub>](https://chengjianhua.github.io)<br />[💻](https://github.com/chengjianhua/generator-oss-cjh/commits?author=chengjianhua 'Code') [📖](https://github.com/chengjianhua/generator-oss-cjh/commits?author=chengjianhua 'Documentation') [🚇](#infra-chengjianhua 'Infrastructure (Hosting, Build-Tools, etc)') |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors][all-contributors] specification. Contributions of any kind welcome!
@@ -86,5 +104,5 @@ MIT
 [github-star]: https://github.com/chengjianhua/generator-oss-cjh/stargazers
 [twitter]: https://twitter.com/intent/tweet?text=Check%20out%20generator-oss-cjh%20by%20%40chengjianhua%20https%3A%2F%2Fgithub.com%2Fchengjianhua%2Fgenerator-oss-cjh%20%F0%9F%91%8D
 [twitter-badge]: https://img.shields.io/twitter/url/https/github.com/chengjianhua/generator-oss-cjh.svg?style=social
-[emojis]: https://github.com/chengjianhua/all-contributors#emoji-key
-[all-contributors]: https://github.com/chengjianhua/all-contributors
+[emojis]: https://github.com/kentcdodds/all-contributors#emoji-key
+[all-contributors]: https://github.com/kentcdodds/all-contributors

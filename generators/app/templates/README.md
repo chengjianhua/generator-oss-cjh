@@ -113,5 +113,5 @@ MIT
 [github-star]: https://github.com/chengjianhua/<%= moduleName %>/stargazers
 [twitter]: https://twitter.com/intent/tweet?text=Check%20out%20<%= moduleName %>%20by%20%40chengjianhua%20https%3A%2F%2Fgithub.com%2Fchengjianhua%2F<%= moduleName %>%20%F0%9F%91%8D
 [twitter-badge]: https://img.shields.io/twitter/url/https/github.com/chengjianhua/<%= moduleName %>.svg?style=social
-[emojis]: https://github.com/chengjianhua/all-contributors#emoji-key
-[all-contributors]: https://github.com/chengjianhua/all-contributors
+[emojis]: https://github.com/kentcdodds/all-contributors#emoji-key
+[all-contributors]: https://github.com/kentcdodds/all-contributors
