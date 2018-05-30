@@ -1,6 +1,14 @@
 const Generator = require('yeoman-generator')
 const kebabCase = require('lodash.kebabcase')
 
+const constants = {
+  user: {
+    avatar: 'https://avatars.githubusercontent.com/u/10795207?v=3',
+    profile: 'https://chengjianhua.github.io',
+    email: 'w.chengjianhua@gmail.com',
+  },
+}
+
 module.exports = class extends Generator {
   init() {
     return this.prompt([
@@ -29,7 +37,7 @@ module.exports = class extends Generator {
       this.fs.copyTpl(
         [`${this.templatePath()}/**`],
         this.destinationPath(),
-        props,
+        Object.assign({}, constants, props),
       )
 
       mv('gitattributes', '.gitattributes')
@@ -45,6 +53,6 @@ module.exports = class extends Generator {
   }
   install() {
     this.spawnCommand('git', ['init'])
-    this.npmInstall()
+    this.yarnInstall()
   }
 }

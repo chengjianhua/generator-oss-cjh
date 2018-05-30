@@ -39,7 +39,7 @@ npm install -g generator-oss-cjh yo
 ## Usage
 
 ```
-yo cjh-oss
+yo oss-cjh
 ```
 
 Follow the prompts...

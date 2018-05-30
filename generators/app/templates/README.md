@@ -10,7 +10,7 @@
 [![Code Coverage][coverage-badge]][coverage]
 [![version][version-badge]][package]
 [![downloads][downloads-badge]][npmtrends]
-[![MIT License][license-badge]][LICENSE]
+[![MIT License][license-badge]][license]
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 [![PRs Welcome][prs-badge]][prs]
@@ -31,6 +31,7 @@
 ## Table of Contents
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
+
 <!-- DON'T EDIT THIS SECTION. It'll update automatically -->
 
 - [Installation](#installation)
@@ -74,8 +75,11 @@ here!
 Thanks goes to these people ([emoji key][emojis]):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-| [<img src="https://avatars.githubusercontent.com/u/1500684?v=3" width="100px;"/><br /><sub>Jianhua Cheng</sub>](https://chengjianhua.com)<br />[💻](https://github.com/chengjianhua/<%= moduleName %>/commits?author=chengjianhua) [📖](https://github.com/chengjianhua/<%= moduleName %>/commits?author=chengjianhua) 🚇 [⚠️](https://github.com/chengjianhua/<%= moduleName %>/commits?author=chengjianhua) |
-| :---: |
+
+| [<img src="<%= user.avatar %>" width="100px;"/><br /><sub>Jianhua Cheng</sub>](<%= user.profile %>)<br />[💻](https://github.com/chengjianhua/<%= moduleName %>/commits?author=chengjianhua) [📖](https://github.com/chengjianhua/<%= moduleName %>/commits?author=chengjianhua) 🚇 [⚠️](https://github.com/chengjianhua/<%= moduleName %>/commits?author=chengjianhua) |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors][all-contributors] specification.
@@ -87,6 +91,7 @@ MIT
 
 [npm]: https://www.npmjs.com/
 [node]: https://nodejs.org
+
 [build-badge]: https://img.shields.io/travis/chengjianhua/<%= moduleName %>.svg?style=flat-square
 [build]: https://travis-ci.org/chengjianhua/<%= moduleName %>
 [coverage-badge]: https://img.shields.io/codecov/c/github/chengjianhua/<%= moduleName %>.svg?style=flat-square
